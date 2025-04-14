@@ -61,3 +61,6 @@ Defina:
 - Você pode fazer queries do tipo:
 GET https://<seu-serviço>.search.windows.net/indexes/<seu-índice>/docs?search=azure&api-key=<chave>
 
+🧠 Insights e Possibilidades
+Insights Cognitivos: Você pode extrair automaticamente texto de PDFs e imagens (OCR), identificar entidades como nomes, locais e datas, detectar idioma, analisar sentimentos, etc.
+
